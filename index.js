@@ -1,10 +1,8 @@
 import inquirer from 'inquirer'
-import prompts from './lib/userPrompts.js'
+import { prompts } from './lib/prompts.js'
 
-async function init() {
-	const answers = await inquirer.prompt(prompts)
-	// Use answers here as needed
-	console.log(answers)
+function init() {
+	inquirer.prompt(prompts).then((response) => console.log(response))
 }
 
 init()
