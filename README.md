@@ -2,7 +2,6 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" alt="JavaScript Badge">
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" alt="HTML5 Badge">
 <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat" alt="Node.js Badge">
 <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat" alt="Jest Badge">
 </p>
@@ -23,6 +22,8 @@ A CLI (Node.js) application that generates an SVG file from a user's input using
 - [License](#license)
 
 ## Installation
+
+Clone repo to destinaton.
 
 Install dependencies using:
 
@@ -48,9 +49,9 @@ Once all prompts have been answered, the logo.svg file will be created in the 'e
 
 ### Demo
 
-[Walkthrough Video](https://watch.screencastify.com/v/Rd1slrEoRvhsmDv3QptA)
+[Walkthrough Video](https://watch.screencastify.com/v/vJZrcRTyeAwVI89xex39)
 
-![Gif-Demo](https://github.com/WebDevMullins/readme-generator/assets/6474546/68a616a4-b2b3-4068-8534-86c88a1411c7)
+![Gif-Demo](https://github.com/WebDevMullins/svg-logo-maker/assets/6474546/f2c98d7f-0c69-4df0-83be-129c69d1250c)
 
 ## Tests
 
@@ -62,4 +63,4 @@ npm test
 
 ## License
 
-README.md Generator is [MIT licensed](./LICENSE).
+SVG Logo Maker is [MIT licensed](./LICENSE).
