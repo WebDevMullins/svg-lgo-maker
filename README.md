@@ -45,7 +45,7 @@ From the root directory, run the following to start the application and answer t
 node index.js
 ```
 
-Once all prompts have been answered, the logo.svg file will be created in the 'examples' directory.
+Once all prompts have been answered, the logo.svg file will be created in the 'output' directory.
 
 ### Demo
 
