@@ -1,4 +1,4 @@
-import { colorValidator, shapeValidator, textValidator } from '../prompts'
+import { colorValidator, shapeValidator, textValidator } from '../lib/prompts'
 
 describe('Confirm prompts validation', () => {
 	describe('Text Validator', () => {

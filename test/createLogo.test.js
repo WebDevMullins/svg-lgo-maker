@@ -1,4 +1,4 @@
-import { createShape } from '../createLogo'
+import { createShape } from '../lib/createLogo'
 
 describe('createShape', () => {
 	it('should create a Circle shape', () => {

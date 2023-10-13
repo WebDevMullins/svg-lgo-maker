@@ -1,4 +1,4 @@
-import { Circle, Square, Triangle } from '../shapes'
+import { Circle, Square, Triangle } from '../lib/shapes'
 
 describe('Shapes', () => {
 	describe('Circle', () => {
